@@ -1,4 +1,4 @@
-"""app_project URL Configuration
+"""Coffee Notes URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
@@ -15,10 +15,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from app_api.views import register_user, login_user
+from coffeenotesapi.views import register_user, login_user
+from django.conf.urls import include
+from rest_framework import routers
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('register', register_user),
     path('login', login_user),
+    # path('', include(router.urls)),
+    path('', include('coffeenotesapi.urls')),
 ]

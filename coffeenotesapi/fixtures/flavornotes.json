@@ -1,0 +1,72 @@
+[
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 1,
+        "fields": {
+            "name": "Fruity"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 2,
+        "fields": {
+            "name": "Floral"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 3,
+        "fields": {
+            "name": "Sweet"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 4,
+        "fields": {
+            "name": "Cocoa"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 5,
+        "fields": {
+            "name": "Earthy"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 6,
+        "fields": {
+            "name": "Citrus"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 7,
+        "fields": {
+            "name": "Sweet"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 8,
+        "fields": {
+            "name": "Nutty"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 9,
+        "fields": {
+            "name": "Berry"
+        }
+    },
+    {
+        "model": "coffeenotesapi.flavornote",
+        "pk": 10,
+        "fields": {
+            "name": "Tropical"
+        }
+    }
+]

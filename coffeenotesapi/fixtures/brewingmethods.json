@@ -1,0 +1,23 @@
+[
+    {
+        "model": "coffeenotesapi.brewingmethod",
+        "pk": 1,
+        "fields": {
+            "type": "Chemex"
+        }
+    },
+    {
+        "model": "coffeenotesapi.brewingmethod",
+        "pk": 2,
+        "fields": {
+            "type": "V60"
+        }
+    },
+    {
+        "model": "coffeenotesapi.brewingmethod",
+        "pk": 3,
+        "fields": {
+            "type": "Flower dripper"
+        }
+    }
+]
