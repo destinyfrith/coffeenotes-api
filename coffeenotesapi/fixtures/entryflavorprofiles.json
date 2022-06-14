@@ -1,0 +1,82 @@
+[
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 1,
+        "fields": {
+            "entry_id": 1,
+            "flavornote_id": 1
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 2,
+        "fields": {
+            "entry_id": 1,
+            "flavornote_id": 6
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 3,
+        "fields": {
+            "entry_id": 1,
+            "flavornote_id": 9
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 4,
+        "fields": {
+            "entry_id": 2,
+            "flavornote_id": 8
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 5,
+        "fields": {
+            "entry_id": 2,
+            "flavornote_id": 10
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 6,
+        "fields": {
+            "entry_id": 2,
+            "flavornote_id": 3
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 8,
+        "fields": {
+            "entry_id": 3,
+            "flavornote_id": 9
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 7,
+        "fields": {
+            "entry_id": 3,
+            "flavornote_id": 8
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 9,
+        "fields": {
+            "entry_id": 3,
+            "flavornote_id": 4
+        }
+    },
+    {
+        "model": "coffeenotesapi.entry_flavor_profile",
+        "pk": 10,
+        "fields": {
+            "entry_id": 3,
+            "flavornote_id": 2
+        }
+    }
+]

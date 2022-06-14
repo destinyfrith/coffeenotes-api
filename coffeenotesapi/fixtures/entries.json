@@ -8,7 +8,6 @@
             "brewing_method": 2,
             "grind_setting": 16,
             "rating": 4.5,
-            "flavor_profile": [1, 6, 9],
             "notes": "This coffee was bright and balanced. More flavor than other coffees. Would like to try it 1 coarser next time. "
         }
     },
@@ -21,7 +20,6 @@
             "brewing_method": 3,
             "grind_setting": 17,
             "rating": 4,
-            "flavor_profile": [3,8,10],
             "notes": "This coffee was yummy. I had notes of papaya and pecan.  Balanced and bright. I don’t think the settings need any adjusting. "
         }
     },
@@ -34,7 +32,6 @@
             "brewing_method": 1,
             "grind_setting": 18,
             "rating": 4.5,
-            "flavor_profile": [4,5,8,9],
             "notes": "This coffee was nutty and had a medium mouthfeel. It was good but slightly watery. I’ll adjust on my next to be a little finer. "
         }
     }
