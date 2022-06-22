@@ -38,7 +38,6 @@ class EntryView(ViewSet):
         Returns
             Response -- JSON serialized entry instance
         """
-        # user = request.auth.user
         serializer = CreateEntrySerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save(flavor_profile=request.data["flavor_profile"])
