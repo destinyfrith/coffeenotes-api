@@ -22,14 +22,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+
 </details>
 
 
@@ -69,26 +62,26 @@ For ease of use it is suggested to use npm. If you do now have npm you can insta
   npm install npm@latest -g
   ```
 
-### Installation assumes you have the server side repo already
+### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/devdevvy/myops-client.git
+   git clone https://github.com/destinyfrith/coffeenotes-api.git
    ```
-2. Install required packages
+2. Create virtual environment
    ```sh
-   npm install
+   pipenv shell
    ```
-3. Start app
+3. Install requirements
    ```sh
-   npm start
+   pipenv install -r requirements.txt
    ```
-4.  Clone/Open and run server code [Server](github.com/destinyfrith/coffeenotes-api)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+4. Create .env file in project root for secret key 
+5. Run command for random secret key and paste key into .env file
+  ```sh
+   python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
+   ```
+6. Run makemigrations, migrate, and loaddata to set up server models and dummy data
+7. Clone/Open [React client](github.com/destinyfrith/coffeenotes-client)
 
 
