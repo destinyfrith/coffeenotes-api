@@ -1,7 +1,7 @@
 <h3 align="center">Coffee Notes</h3>
 
   <p align="center">
-    Coffee journaling app that allows users to track their dial in processes with each new bag for optimum taste and the best experience.
+    Coffee journaling app that allows users to track their dial in processes with each new bag for the best taste and experience.
     <br />
 
 
