@@ -34,7 +34,9 @@
 
    I am a passionate coffee lover who is constantly bringing home new bags to try. Each new coffee requires slightly different settings (grind size, extraction method) for best results. I created Coffee Apps to track each new bag and experience. 
     <br/>
+    <br>
     Coffee Notes stores all user entries in their dashboard. Users can add or update a coffee anytime. The fields being tracked are name, image, grind setting, brewing method, rating, flavor notes, and general thoughts. Through modified entries, users have the ability to fine tune each bag to produce the best cup. 
+    <br/>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
