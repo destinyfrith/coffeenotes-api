@@ -82,6 +82,6 @@ For ease of use it is suggested to use npm. If you do now have npm you can insta
    python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
    ```
 6. Run makemigrations, migrate, and loaddata to set up server models and dummy data
-7. Clone/Open [React client](github.com/destinyfrith/coffeenotes-client)
+7. Clone/Open [React client](https://github.com/destinyfrith/coffeenotes-client)
 
 
