@@ -45,7 +45,7 @@
         "model": "coffeenotesapi.flavornote",
         "pk": 7,
         "fields": {
-            "name": "Sweet"
+            "name": "Spicy"
         }
     },
     {
